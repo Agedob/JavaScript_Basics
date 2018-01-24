@@ -1,0 +1,14 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#head{
+	background-color: red;
+	color: white;
+}
+#Sidebar{
+	/*background-color: blue*/;
+}
+#main{
+	/*background-color: blue;*/
+}
