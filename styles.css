@@ -13,6 +13,7 @@ a{
 
 ul{
 	/*display: inline-block;*/
+	/*line-height: 12px;*/
 	list-style-position: inside; 
 }
 
@@ -44,8 +45,9 @@ ul{
 }
 
 #main{
-	width: 750px;
-	padding: 10px;
+	width: 740px;
+	padding: 10px 20px;
+	line-height: 18px;
 	margin: 5px;
 	background-color: black;
 	display: inline-block;
