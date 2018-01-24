@@ -16,13 +16,13 @@ ul{
 	/*display: inline-block;*/
 	/*line-height: 12px;*/
 	/*display: inline-block;*/
-	list-style-position: inside; 
-	margin-left: 5px;
+	/*list-style-position: inside; */
+	margin-left: 14px;
 }
 
 #wrap{
 	width: 970px;
-	background-color: #001a66;
+	background-color: #001133;
 	font-size: smaller;
 	margin: 10px;
 	padding: 5px;
@@ -44,14 +44,14 @@ ul{
     /*list-style-type: armenian;*/
 	/*position: relative;*/
 	display: inline-block;
-	background-color: #008080;
+	background-color: #004d4d;
 }
 
 #main{
-	width: 755px;
-	padding: 10px 20px;
-	line-height: 18px;
-	margin: 10px 0px 15px 5px;
+	width: 750px;
+	padding: 20px;
+	line-height: 14px;
+	margin: 10px 0px 15px 10px;
 	background-color: black;
 	display: inline-block;
 }
